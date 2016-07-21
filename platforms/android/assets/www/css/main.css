@@ -1,0 +1,11 @@
+.titleFont
+{
+	color: white;
+}
+
+.remove
+{
+	display: inline !important;
+	width: 10% !important;
+	text-align: center !important;
+}
